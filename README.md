@@ -1,1 +1,1 @@
-# Task-1
+In this project, I worked on the Titanic dataset and did some basic data preprocessing. I started by checking for missing values and data types. Then I filled in the missing values using mean or median. I converted the text columns into numbers using encoding. After that, I normalized the numerical columns to keep everything on a similar scale. I also used boxplots to find and remove outliers. This cleaned-up data can now be used for machine learning models.
